@@ -31,7 +31,7 @@
       "git add"
     ]
   },
-  "main": "src/index.js",
+  "main": "dist/json-rules-engine-simplified.js",
   "files": [
     "dist",
     "lib"
